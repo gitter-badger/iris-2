@@ -1,0 +1,25 @@
+/*
+ |--------------------------------------------------------------------------
+ | Forms
+ |--------------------------------------------------------------------------
+*/
+
+.form-combined {
+  .form-control{
+    min-height: 3rem;
+  }
+  .form-control-first {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .form-control-last {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+}
+
+.form-small-width {
+  min-width: 300px;
+}
