@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@types/lodash": "4.14.65",
-    "@types/node": "7.0.27",
+    "@types/node": "7.0.28",
     "@types/webpack": "2.2.15",
     "aurelia-loader-nodejs": "1.0.1",
     "aurelia-pal-nodejs": "1.0.0-beta.1.0.0",
@@ -38,7 +38,7 @@
     "postcss-loader": "2.0.5",
     "sass-loader": "^6.0.5",
     "style-loader": "0.18.2",
-    "ts-node": "3.0.4",
+    "ts-node": "3.0.6",
     "typescript": "2.3.4",
     "url-loader": "0.5.8",
     "wait-on": "2.0.2",

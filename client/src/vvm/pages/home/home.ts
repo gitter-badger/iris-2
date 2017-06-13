@@ -20,7 +20,7 @@ export class Home {
       x: [1, 2, 3, 4, 5],
       y: [1, 2, 4, 8, 16],
       line: {
-        color: Constants.COLOR_PRIMARY
+        color: Constants.COLOR_GRAPH_PRIMARY
       }
     }], {
       margin: {t: 50, b: 50, l: 50, r: 50},
